@@ -220,4 +220,3 @@ docker run -p 8080:8080 myapp
 - Profile-based configurations: `@Profile("dev")`, `@Profile("prod")`.
 - Spring Boot 3+ uses Jakarta EE instead of Java EE.
 
-🚀 Now you're loaded with Spring Boot knowledge!
