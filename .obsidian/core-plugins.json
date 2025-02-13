@@ -26,5 +26,10 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false
+=======
+  "sync": true,
+  "webviewer": false
+>>>>>>> 2bb1068 (New Entries)
 }
