@@ -21,10 +21,4 @@
 21. hash maps
 22. union find
 23. bitwise multiplication
-24. Shutter Island 
-25. Seven
-26. Fight Club
-27. Joker
-28. American Pshyco
-29. Batman
-30. 
+
