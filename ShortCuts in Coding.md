@@ -10,3 +10,7 @@ While(num){
 int Digits = log10(n) + 1;
 ```
 
+## Single Line to Swap two Numbers
+```
+a=a+b-(b=a)
+```
