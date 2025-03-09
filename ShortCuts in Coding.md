@@ -26,3 +26,16 @@ b=a^b;
 a=a^b;
 
 ```
+## Count the Set Bits(No of 1's in binary Forms)
+```
+while(n){
+    count += n & 1;
+    n >>=1;
+}
+```
+```
+while(n){
+    n &= n-1;
+    count ++;
+}
+```
