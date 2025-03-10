@@ -4,4 +4,14 @@
    C : Capacity of Water Can
    plants : Water Requirement of the plant 
 
-2. 
+
+
+## Ignitarium 
+
+Application
+
+I applied through university. I interviewed at Ignitarium Technology Solutions
+
+Interview
+
+4 Rounds, Aptitude round followed by two technical and one HR. Technical main focus was on pointers. study everything about pointers especially different types of pointers. a programming question was mainly bit manipulation sometimes pattern programming also asked, study any two sorting algorithm. micro controller knowledge is added advantage. Hone your C programming basics thoroughly. Two year bond is there.
