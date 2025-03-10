@@ -39,3 +39,22 @@ while(n){
     count ++;
 }
 ```
+
+## Calculate a power b
+```
+double normal_pow(double a, double b){
+    return pow(a,b);
+}
+```
+
+```
+double fast_pow(double a, int b){
+    double res = 0;
+    while(b){
+        if(b%2) res *= a;
+        a*=a;
+        b/=2; 
+    }
+    return res;
+}
+```
