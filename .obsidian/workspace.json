@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Things to Learn in Detail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Things to Learn in Detail"
             }
           }
         ],
@@ -224,22 +224,22 @@
   },
   "active": "799c4427f869fa56",
   "lastOpenFiles": [
-    "Questions from Mr.Cooper.md",
-    "Movies to watch.md",
-    "Books.md",
-    "Basics.md",
-    "Anime WatchList.md",
-    "Youtube Video Watch List.md",
-    "Websites From instagram.md",
     "Useful Websites.md",
-    "Things to Learn in Detail.md",
+    "Websites From instagram.md",
+    "Youtube Video Watch List.md",
     "ShortCuts in Coding.md",
+    "Movies to watch.md",
+    "Questions from Mr.Cooper.md",
+    "Regimes.md",
+    "Things to Learn in Detail.md",
+    "Anime WatchList.md",
+    "Basics.md",
+    "Books.md",
+    "README.md",
     "Anime List From March-1-25.md",
     "Welcome.md",
-    "Regimes.md",
     "etc/hosts",
     "etc",
-    "README.md",
     "TedTalk.md",
     "Untitled 1.md"
   ]
