@@ -48,13 +48,20 @@ double normal_pow(double a, double b){
 ```
 
 ```
-double fast_pow(double a, int b){
-    double res = 0;
-    while(b){
-        if(b%2) res *= a;
-        a*=a;
-        b/=2; 
+public class FastPower {
+    public static double fastPow(double a, int b) {
+        double res = 1.0; // Initialize res to 1 instead of 0
+        while (b != 0) {
+            if (b % 2 != 0) res *= a;
+            a *= a;
+            b /= 2;
+        }
+        return res;
     }
-    return res;
+
+    public static void main(String[] args) {
+        System.out.println(fastPow(2.0, 10)); // Example usage
+    }
 }
+
 ```
