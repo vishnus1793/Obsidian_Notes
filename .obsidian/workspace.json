@@ -125,16 +125,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be Known.md",
+                "file": "Things to Learn in Detail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to be Known"
+              "title": "Things to Learn in Detail"
+            }
+          },
+          {
+            "id": "979fb0535a8943cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java HashMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java HashMap"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -278,20 +292,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adefe6f10e82129f",
+  "active": "979fb0535a8943cc",
   "lastOpenFiles": [
-    "Null pointer Error.md",
-    "Things to be Known.md",
-    "Movies to watch.md",
-    "Pointers.md",
-    "Questions from Mr.Cooper.md",
-    "Java StringBuilder.md",
-    "ShortCuts in Coding.md",
     "Things to Learn in Detail.md",
+    "Java HashMap.md",
     "Useful Websites.md",
     "Websites From instagram.md",
     "Youtube Video Watch List.md",
     "Regimes.md",
+    "ShortCuts in Coding.md",
+    "Things to be Known.md",
+    "Null pointer Error.md",
+    "Movies to watch.md",
+    "Pointers.md",
+    "Questions from Mr.Cooper.md",
+    "Java StringBuilder.md",
     "Anime WatchList.md",
     "Basics.md",
     "Books.md",
