@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointers.md",
+                "file": "Null pointer Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointers"
+              "title": "Null pointer Error"
             }
           }
         ],
@@ -266,8 +266,9 @@
   },
   "active": "da311a505261c128",
   "lastOpenFiles": [
-    "Questions from Mr.Cooper.md",
+    "Movies to watch.md",
     "Pointers.md",
+    "Questions from Mr.Cooper.md",
     "Null pointer Error.md",
     "Java StringBuilder.md",
     "ShortCuts in Coding.md",
@@ -275,7 +276,6 @@
     "Useful Websites.md",
     "Websites From instagram.md",
     "Youtube Video Watch List.md",
-    "Movies to watch.md",
     "Regimes.md",
     "Anime WatchList.md",
     "Basics.md",
