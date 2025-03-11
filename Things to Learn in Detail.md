@@ -21,4 +21,5 @@
 21. hash maps
 22. union find
 23. bitwise multiplication
+24. kaprekar Number
 
