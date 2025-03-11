@@ -22,3 +22,4 @@ Beeper is currently in the **Beta** stage, meaning it is mostly functional but s
 ## Appimage Manager
 =="Gear Lever" is a free and open-source== tool designed to manage AppImages on Linux, simplifying their installation, organization, and integration with the system menu
 https://github.com/mijorus/gearlever
+
