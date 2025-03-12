@@ -14,3 +14,7 @@ git branch new-branch-name abc123
 - `branch_name` is the local branch you are pushing.
 - After using `-u`, you can just run `git push` next time.
 - Check tracking branches with `git branch -vv`.
+## view local branches and their tracking information
+```
+git branch -vv
+```
