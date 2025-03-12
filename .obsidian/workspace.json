@@ -216,9 +216,23 @@
               "icon": "lucide-file",
               "title": "MySql"
             }
+          },
+          {
+            "id": "01b5e6583eec00db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -362,10 +376,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f3d573190098214",
+  "active": "01b5e6583eec00db",
   "lastOpenFiles": [
-    "Docker.md",
     "MySql.md",
+    "AWS.md",
+    "Docker.md",
     "Prompt.md",
     "Things to be Known.md",
     "Things to Learn in Detail.md",
@@ -389,7 +404,6 @@
     "Anime WatchList.md",
     "Basics.md",
     "Books.md",
-    "README.md",
     "etc/hosts",
     "etc"
   ]
