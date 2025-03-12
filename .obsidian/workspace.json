@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTY.md",
+                "file": "Things to be Known.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTY"
+              "title": "Things to be Known"
             }
           }
         ],
@@ -322,13 +322,14 @@
   },
   "active": "1f5a551ae0b9d398",
   "lastOpenFiles": [
+    "Things to Learn in Detail.md",
+    "Things to be Known.md",
+    "TTY.md",
     "PTY.md",
     "Git.md",
-    "Things to be Known.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Things to Learn in Detail.md",
     "Java HashMap.md",
     "Useful Websites.md",
     "Websites From instagram.md",
