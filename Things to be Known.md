@@ -25,3 +25,5 @@ Beeper is currently in the **Beta** stage, meaning it is mostly functional but s
 https://github.com/mijorus/gearlever
 
 https://tldr.inbrowser.app/pages/common/lsd used to learn about linux commands
+
+https://github.com/yt-dlp/yt-dlp => Audio/Video Downloader
