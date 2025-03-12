@@ -97,4 +97,5 @@ echo "command" > /dev/pts/X  # Send input
 - Explore **SSH escape sequences** (`~.` to disconnect, `~C` for command mode).
 - Experiment with **containerized PTY environments** in Docker.
 
-With this, you'll handle PTY terminals like a **true expert**!
+
+[Physical TTY (/dev/tty1)] → [Xorg/Wayland] → [Alacritty (Terminal Emulator)] → [PTY (/dev/pts/1)] → [Shell (bash, zsh)]
