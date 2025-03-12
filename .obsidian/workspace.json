@@ -8,272 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfc0197189892b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ShortCuts in Coding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ShortCuts in Coding"
-            }
-          },
-          {
-            "id": "2febbd9289509907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movies to watch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Movies to watch"
-            }
-          },
-          {
-            "id": "782ec68203ec37f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube Video Watch List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Youtube Video Watch List"
-            }
-          },
-          {
-            "id": "a3ed14d8011501ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anime WatchList.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anime WatchList"
-            }
-          },
-          {
-            "id": "799c4427f869fa56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ShortCuts in Coding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ShortCuts in Coding"
-            }
-          },
-          {
-            "id": "574ce4c7736a0d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions from Mr.Cooper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions from Mr.Cooper"
-            }
-          },
-          {
-            "id": "d2a4d846710a6d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions from Mr.Cooper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions from Mr.Cooper"
-            }
-          },
-          {
-            "id": "da311a505261c128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Null pointer Error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Null pointer Error"
-            }
-          },
-          {
-            "id": "adefe6f10e82129f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn in Detail.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things to Learn in Detail"
-            }
-          },
-          {
-            "id": "979fb0535a8943cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java HashMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java HashMap"
-            }
-          },
-          {
-            "id": "8650ced3d757b23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "1f5a551ae0b9d398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to be Known.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things to be Known"
-            }
-          },
-          {
-            "id": "e85fc4cab2abad66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt"
-            }
-          },
-          {
-            "id": "b0a6d1663b55f312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
-            "id": "6f3d573190098214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySql.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MySql"
-            }
-          },
-          {
-            "id": "01b5e6583eec00db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS"
-            }
-          },
-          {
-            "id": "3820caec60df003f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Node.js"
-            }
-          },
-          {
-            "id": "0af88f07ff9b7dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt"
-            }
-          },
-          {
-            "id": "d46dcb67bf24795f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TTY"
-            }
-          },
-          {
             "id": "d95202a10a8307e7",
             "type": "leaf",
             "state": {
@@ -287,8 +21,7 @@
               "title": "Terminating TTy"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -435,31 +168,31 @@
   "active": "d95202a10a8307e7",
   "lastOpenFiles": [
     "TTY.md",
+    "Prompt.md",
+    "Node.js.md",
+    "AWS.md",
+    "MySql.md",
+    "Docker.md",
+    "Things to be Known.md",
+    "Git.md",
+    "Java HashMap.md",
+    "Things to Learn in Detail.md",
+    "Null pointer Error.md",
+    "Questions from Mr.Cooper.md",
+    "ShortCuts in Coding.md",
+    "Anime WatchList.md",
+    "Youtube Video Watch List.md",
+    "Movies to watch.md",
     "Terminating TTy.md",
     "Books.md",
     "PTY.md",
     "Anime List From March-1-25.md",
     "Chrome.md",
-    "Prompt.md",
-    "Things to be Known.md",
     "Python.md",
-    "Node.js.md",
-    "AWS.md",
-    "MySql.md",
-    "Docker.md",
-    "Things to Learn in Detail.md",
-    "Git.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Java HashMap.md",
     "Useful Websites.md",
-    "Websites From instagram.md",
-    "Youtube Video Watch List.md",
-    "Regimes.md",
-    "ShortCuts in Coding.md",
-    "Null pointer Error.md",
-    "Movies to watch.md",
     "etc/hosts",
     "etc"
   ]
