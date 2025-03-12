@@ -1,5 +1,7 @@
 # **Mastering PTY Terminals Like an Expert**
 
+[Physical TTY (/dev/tty1)] → [Xorg/Wayland] → [Alacritty (Terminal Emulator)] → [PTY (/dev/pts/1)] → [Shell (bash, zsh)]
+
 ## **Step 1: Understand PTY and How It Works**
 - Learn what a **pseudoterminal (PTY)** is and how it differs from a **TTY**.
 - Understand how **master-slave pairs** work (`/dev/pts/*`).
@@ -97,5 +99,3 @@ echo "command" > /dev/pts/X  # Send input
 - Explore **SSH escape sequences** (`~.` to disconnect, `~C` for command mode).
 - Experiment with **containerized PTY environments** in Docker.
 
-
-[Physical TTY (/dev/tty1)] → [Xorg/Wayland] → [Alacritty (Terminal Emulator)] → [PTY (/dev/pts/1)] → [Shell (bash, zsh)]
