@@ -3,7 +3,8 @@
 ## 1. Master the Basics
 ### ✔️ Understand TTY & Virtual Consoles
 - Learn how to switch between TTYs (`Ctrl + Alt + F1` to `F6`)
-- Understand the difference between TTY and PTY (pseudo-terminal)
+- Understand the difference between TTY and [PTY (pseudo-terminal)](https://en.wikipedia.org/wiki/Pseudoterminal)
+
 
 ### ✔️ Navigation & File Management
 - Use `ls`, `cd`, `pwd`, `tree`, `find`
