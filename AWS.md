@@ -52,4 +52,4 @@
 
 ---
 
-🚀 **Follow this roadmap, practice hands-on, and become an AWS expert!**
+
