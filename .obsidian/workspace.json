@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "Git"
             }
+          },
+          {
+            "id": "1f5a551ae0b9d398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PTY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PTY"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -306,14 +320,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8650ced3d757b23f",
+  "active": "1f5a551ae0b9d398",
   "lastOpenFiles": [
+    "Git.md",
+    "PTY.md",
     "Things to be Known.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
     "Things to Learn in Detail.md",
-    "Git.md",
     "Java HashMap.md",
     "Useful Websites.md",
     "Websites From instagram.md",
