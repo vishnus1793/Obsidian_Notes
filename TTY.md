@@ -3,7 +3,7 @@
 ## 1. Master the Basics
 ### ✔️ Understand TTY & Virtual Consoles
 - Learn how to switch between TTYs (`Ctrl + Alt + F1` to `F6`)
-- Understand the difference between TTY and [PTY (pseudo-terminal)](https://en.wikipedia.org/wiki/Pseudoterminal)
+- Understand the difference between TTY and [PTY (pseudo-terminal)](https://github.com/vishnus1793/Obsidian_Notes/blob/main/PTY.md)
 
 
 ### ✔️ Navigation & File Management
