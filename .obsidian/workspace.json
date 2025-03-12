@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be Known.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to be Known"
+              "title": "Prompt"
             }
           }
         ],
@@ -406,13 +406,13 @@
   },
   "active": "0af88f07ff9b7dae",
   "lastOpenFiles": [
+    "Things to be Known.md",
     "Python.md",
     "Node.js.md",
     "AWS.md",
     "MySql.md",
     "Docker.md",
     "Prompt.md",
-    "Things to be Known.md",
     "Things to Learn in Detail.md",
     "TTY.md",
     "PTY.md",
