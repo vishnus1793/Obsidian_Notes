@@ -48,7 +48,7 @@ Distros = Kernel + Userland (tools, libraries, package manager). Examples:
 - **Universal**: `snap`, `flatpak`, `AppImage`  
 
 ## Init Systems
-- **systemd** (`systemctl status <service>`)  
+- [**systemd**](https://github.com/vishnus1793/Obsidian_Notes/blob/main/Systemd.md) (`systemctl status <service>`)
 - **SysVinit** (`service <name> start`)  
 - **OpenRC** (used in Alpine, Gentoo)  
 
