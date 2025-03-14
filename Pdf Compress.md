@@ -4,7 +4,7 @@
 
 Before starting, install Ghostscript if it's not already installed:
 
-```sh
+```
 sudo dnf install ghostscript -y
 ```
 
