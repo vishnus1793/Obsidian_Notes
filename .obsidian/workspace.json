@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pdf Compress.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pdf Compress"
+              "title": "Prompt"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "893823bf8ac1a0bc",
   "lastOpenFiles": [
-    "Systemd.md",
     "Pdf Compress.md",
+    "Systemd.md",
     "Linux.md",
     "PTY.md",
     "Prompt.md",
