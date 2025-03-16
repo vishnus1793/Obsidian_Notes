@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "Useful Websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Useful Websites"
             }
           }
         ],
@@ -210,23 +210,23 @@
   },
   "active": "893823bf8ac1a0bc",
   "lastOpenFiles": [
+    "MySql.md",
+    "Null pointer Error.md",
     "Pdf Compress.md",
+    "Pointers.md",
+    "Prompt.md",
     "Systemd.md",
     "Linux.md",
     "PTY.md",
-    "Prompt.md",
-    "Pointers.md",
     "Terminating TTy.md",
     "TTY.md",
     "Node.js.md",
     "AWS.md",
-    "MySql.md",
     "Docker.md",
     "Things to be Known.md",
     "Git.md",
     "Java HashMap.md",
     "Things to Learn in Detail.md",
-    "Null pointer Error.md",
     "Questions from Mr.Cooper.md",
     "ShortCuts in Coding.md",
     "Anime WatchList.md",
