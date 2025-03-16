@@ -18,3 +18,33 @@ git branch new-branch-name abc123
 ```
 git branch -vv
 ```
+
+# **shallow cloning**
+## Git Clone with Depth Option
+
+## What is `--depth=1` in Git Clone?
+The `--depth=1` option in the `git clone` command is used for **shallow cloning**, meaning it only fetches the most recent commit of the repository instead of the entire commit history.
+
+## Why is `--depth=1` Used?
+1. **Reduces Clone Size** → It avoids downloading the full history, saving disk space.
+2. **Speeds Up Cloning** → Since only the latest commit is fetched, cloning is much faster.
+3. **Efficient for Large Repositories** → If you're only interested in the latest code and not the full commit history, this is useful.
+
+## Example
+```bash
+git clone --depth=1 https://github.com/htr-tech/zphisher.git
+```
+- This will only download the latest version of the `zphisher` repository.
+- It **won’t include** old commits, branches, or history.
+
+## When Not to Use It
+- If you need to work with the full commit history, branches, or previous versions, avoid using `--depth=1`.
+- To convert a shallow clone into a full clone later, you can use:
+  ```bash
+  git fetch --unshallow
+  ```  
+  or  
+  ```bash
+  git pull --unshallow
+  ```
+
