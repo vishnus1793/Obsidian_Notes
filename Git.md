@@ -48,3 +48,18 @@ git clone --depth=1 https://github.com/htr-tech/zphisher.git
   git pull --unshallow
   ```
 
+----------------------------------------------------------------------
+# Why is Octocat in the GitHub Icon?
+
+Octocat is GitHub’s mascot and branding icon. It represents GitHub’s playful and creative culture. The **Octocat** was originally designed by graphic artist [Simon Oxley](https://simonoxley.com/), who also created the original Twitter bird. 
+
+## Why an Octocat?
+
+1. **Unique Identity** – GitHub wanted a memorable and quirky mascot to represent their platform.
+2. **Combination of "Octo" (Octopus) & "Cat"** – The Octocat has tentacles like an octopus but a cat’s face, symbolizing flexibility and curiosity.
+3. **Open-Source Culture** – GitHub supports collaboration and creativity, which the Octocat embodies.
+
+The Octocat has since become an iconic part of GitHub’s branding, appearing in stickers, merchandise, and Easter eggs across the platform.
+
+-----------------------------------------------------------------------
+
