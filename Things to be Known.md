@@ -27,3 +27,10 @@ https://github.com/mijorus/gearlever
 https://tldr.inbrowser.app/pages/common/lsd used to learn about linux commands
 
 https://github.com/yt-dlp/yt-dlp => Audio/Video Downloader
+
+----------------------------
+## Command to open files
+[vishnu@Vishnu ~]$ nautilus
+** Message: 22:08:04.874: Connecting to org.freedesktop.Tracker3.Miner.Files
+
+----------
