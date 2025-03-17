@@ -3,3 +3,4 @@
 3. If i had to outperform 99% of people in [Topic], What must i know ?
 4. Expose the biggest lie people believed about [Topic].
 5. Tell me the one secret that top 1% never share about [topic].
+6. What's the one piece of knowledge about [Topic] that could make me unstoppable ?

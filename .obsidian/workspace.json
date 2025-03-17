@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be Known.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to be Known"
+              "title": "Prompt"
             }
           }
         ],
@@ -238,6 +238,13 @@
   },
   "active": "f26be615005cb0fc",
   "lastOpenFiles": [
+    "PTY.md",
+    "Pointers.md",
+    "Questions from Mr.Cooper.md",
+    "Python.md",
+    "Things to be Known.md",
+    "Systemd.md",
+    "ShortCuts in Coding.md",
     "Things to Learn in Detail.md",
     "Null pointer Error.md",
     "Movies to watch.md",
@@ -246,24 +253,17 @@
     "Git.md",
     "Useful Websites.md",
     "Extensions in Browser.md",
-    "Things to be Known.md",
     "Node.js.md",
     "Search Engine.md",
     "MySql.md",
     "Pdf Compress.md",
-    "Pointers.md",
     "Prompt.md",
-    "Systemd.md",
-    "PTY.md",
     "Terminating TTy.md",
     "TTY.md",
     "AWS.md",
     "Docker.md",
     "Java HashMap.md",
-    "Questions from Mr.Cooper.md",
-    "ShortCuts in Coding.md",
     "Anime WatchList.md",
-    "Youtube Video Watch List.md",
     "etc/hosts",
     "etc"
   ]
