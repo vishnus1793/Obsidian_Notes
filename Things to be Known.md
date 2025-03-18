@@ -34,3 +34,8 @@ https://github.com/yt-dlp/yt-dlp => Audio/Video Downloader
 ** Message: 22:08:04.874: Connecting to org.freedesktop.Tracker3.Miner.Files
 
 ----------
+Command to Show command history
+
+```
+cat ~/.bash_history
+```
