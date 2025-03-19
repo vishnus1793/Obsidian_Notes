@@ -71,7 +71,7 @@ Distros = Kernel + Userland (tools, libraries, package manager). Examples:
 - **Cloud**: Headless version for remote pentesting.
 
 ## Key Tools
-- **Penetration Testing**: Metasploit, SQLmap, Aircrack-ng, Nmap  
+- **Penetration Testing**: Metasploit, SQLmap, Aircrack-ng, Nmap, Zphisher  
 - **Digital Forensics**: Autopsy, Volatility, Binwalk  
 - **Anonymity & Privacy**: Tor, ProxyChains, Anonsurf  
 - **OSINT (Open-Source Intelligence)**: TheHarvester, Maltego  
