@@ -79,3 +79,12 @@ class Main {
     }
 }
 ```
+
+Fibonacci in python
+
+```
+f=[0,1]
+for _ in range(10):
+    f.append(sum(f[-2:]))
+print(f)
+```
