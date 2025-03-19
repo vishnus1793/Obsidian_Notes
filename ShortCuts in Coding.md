@@ -65,3 +65,17 @@ public class FastPower {
 }
 
 ```
+
+
+Lower Case to Uppercase using Stream
+
+```
+class Main {
+    public static void main(String[] args) {
+        List<String> names = Arrays.asList("leo", "das");
+        names.stream()
+             .map(String::toUpperCase)
+             .forEach(System.out::println);
+    }
+}
+```

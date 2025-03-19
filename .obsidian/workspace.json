@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "ShortCuts in Coding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "ShortCuts in Coding"
             }
           }
         ],
@@ -252,6 +252,7 @@
   },
   "active": "66d0ca71947c6672",
   "lastOpenFiles": [
+    "Linux.md",
     "LocalXpose.md",
     "Things to be Known.md",
     "README.md",
@@ -265,7 +266,6 @@
     "Things to Learn in Detail.md",
     "Null pointer Error.md",
     "Movies to watch.md",
-    "Linux.md",
     "Java StringBuilder.md",
     "Git.md",
     "Useful Websites.md",
