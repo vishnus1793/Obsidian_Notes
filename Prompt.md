@@ -5,3 +5,5 @@
 5. Tell me the one secret that top 1% never share about [topic].
 6. What's the one piece of knowledge about [Topic] that could make me unstoppable ?
 7. What's the single most powerful mental model for mastering [topic]?
+8. Teach me how to control my mind so nothing external can break me.
+9. 
