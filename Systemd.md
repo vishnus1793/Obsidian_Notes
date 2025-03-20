@@ -163,4 +163,3 @@ sudo systemctl enable --now myapp.service
 - Targets replace traditional runlevels.
 - Mastering unit files = full control over your system.
 
-🔥 Pure systemd knowledge, no fluff. 🔥
