@@ -39,3 +39,9 @@ Command to Show command history
 ```
 cat ~/.bash_history
 ```
+
+
+
+```
+upower -i $(upower -e | grep BAT) | grep --color=never -E "percentage"
+```
