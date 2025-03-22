@@ -45,3 +45,9 @@ cat ~/.bash_history
 ```
 upower -i $(upower -e | grep BAT) | grep --color=never -E "percentage"
 ```
+
+
+## Set config for QuteBrowser
+```
+qutebrowser --config ~/.config/qutebrowser/config.py
+```

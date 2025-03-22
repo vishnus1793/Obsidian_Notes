@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker + VNC.md",
+                "file": "Things to be Known.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker + VNC"
+              "title": "Things to be Known"
             }
           }
         ],
@@ -280,8 +280,9 @@
   },
   "active": "8bb244f528c1c6f0",
   "lastOpenFiles": [
-    "Java Interview Questions.md",
+    "TTY.md",
     "Docker + VNC.md",
+    "Java Interview Questions.md",
     "Anime WatchList.md",
     "Prompt.md",
     "ShortCuts in Coding.md",
@@ -305,7 +306,6 @@
     "Search Engine.md",
     "MySql.md",
     "Pdf Compress.md",
-    "Terminating TTy.md",
     "etc/hosts",
     "etc"
   ]
