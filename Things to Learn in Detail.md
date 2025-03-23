@@ -15,11 +15,10 @@
 15. matrices
 16. graphs
 17. stacks
-18. dfs
-19. bfs
-20. trie
-21. hash maps
-22. union find
-23. bitwise multiplication
-24. kaprekar Number
+18. dfs  & bfs
+19. trie
+20. hash maps
+21. union find
+22. bitwise multiplication
+23. kaprekar Number
 

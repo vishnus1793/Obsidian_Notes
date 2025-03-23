@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be Known.md",
+                "file": "Things to Learn in Detail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to be Known"
+              "title": "Things to Learn in Detail"
             }
           }
         ],
@@ -280,6 +280,7 @@
   },
   "active": "8bb244f528c1c6f0",
   "lastOpenFiles": [
+    "Things to be Known.md",
     "xbps.md",
     "Void Hyprland Tut.md",
     "Git Setup.md",
@@ -305,7 +306,6 @@
     "Git.md",
     "Docker + VNC.md",
     "Docker.md",
-    "Chrome.md",
     "etc/hosts",
     "etc"
   ]
