@@ -63,3 +63,76 @@ The Octocat has since become an iconic part of GitHub’s branding, appearing in
 
 -----------------------------------------------------------------------
 
+## Fixing LazyGit Authentication Issue with GitHub CLI
+
+If LazyGit is not recognizing your GitHub authentication, follow these steps to configure Git properly.
+
+### **1. Check Current Credential Helper**
+
+Run the following command to see if any credential helper is set:
+
+```bash
+git config --global credential.helper
+```
+
+If it returns nothing, proceed with the next steps.
+
+### **2. Set Git to Use GitHub CLI for Authentication**
+
+Run this command to configure Git to use `gh` as the credential helper:
+
+```bash
+git config --global credential.helper '!gh auth git-credential'
+```
+
+Then restart LazyGit and try again.
+
+### **3. Alternative: Use Git Credential Store**
+
+If the above method does not work, set Git to store credentials:
+
+```bash
+git config --global credential.helper store
+```
+
+Then, push or pull a repository. Git will prompt for your GitHub credentials, and they will be saved for future use.
+
+### **4. Verify Remote URL Format**
+
+Ensure your repository is using HTTPS instead of SSH:
+
+```bash
+git remote -v
+```
+
+If it shows SSH (`git@github.com:...`), switch it to HTTPS:
+
+```bash
+git remote set-url origin https://github.com/your-username/your-repo.git
+```
+
+Replace `your-username` and `your-repo` with your actual GitHub username and repository name.
+
+### **5. Re-authenticate with GitHub CLI**
+
+Try logging out and logging in again with `gh`:
+
+```bash
+gh auth logout
+gh auth login
+```
+
+Then restart LazyGit and test again.
+
+### **6. Run LazyGit in Debug Mode**
+
+If issues persist, run LazyGit in debug mode to check for specific errors:
+
+```bash
+lazygit --debug
+```
+
+This will provide detailed logs for troubleshooting.
+
+---
+
