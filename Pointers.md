@@ -220,5 +220,4 @@ int main() {
 }
 ```
 
-🚀 _Understanding different pointer types is crucial for efficient memory management in C/C++!_
 

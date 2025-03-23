@@ -104,4 +104,3 @@
 
 ---
 
-💪 **Bonus:** Since you've completed the *Docker Mastery* course, try experimenting with **Docker Extensions, GPU support, and Cloud deployments**! 🚀

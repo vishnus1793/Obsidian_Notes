@@ -14,5 +14,3 @@ Possible resolutions:
 - Disable the antivirus temporarily and check system stability.
 - Review Windows Event Viewer logs for crash-related details.
 - Update Windows and system drivers to ensure compatibility.
-
-For further investigation, affected users are advised to check CrowdStrike's official support channels for patches or mitigation steps.
