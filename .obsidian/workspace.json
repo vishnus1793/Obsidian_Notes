@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Git"
             }
+          },
+          {
+            "id": "919dd8aa1ad6204d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeatD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SeatD"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -278,8 +292,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb244f528c1c6f0",
+  "active": "919dd8aa1ad6204d",
   "lastOpenFiles": [
+    "Git.md",
+    "SeatD.md",
     "Things to Learn in Detail.md",
     "Things to be Known.md",
     "xbps.md",
@@ -304,8 +320,6 @@
     "Java StringBuilder.md",
     "Java Interview Questions.md",
     "Java HashMap.md",
-    "Git.md",
-    "Docker + VNC.md",
     "etc/hosts",
     "etc"
   ]
