@@ -6,5 +6,6 @@
 6. Violet EverGarden
 7. Hell's paradise
 8. Frieren
-9. I'm Getting Married to a Girl I Hate in My Class
+9. Solo leveling
+10. 
 
