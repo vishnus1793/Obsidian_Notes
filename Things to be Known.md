@@ -51,3 +51,35 @@ upower -i $(upower -e | grep BAT) | grep --color=never -E "percentage"
 ```
 qutebrowser --config ~/.config/qutebrowser/config.py
 ```
+
+## Removing the Last Commit in GitHub
+
+### **1. Remove Last Commit Locally and Push the Change**
+```bash
+git reset --hard HEAD~1
+git push origin --force
+```
+This completely removes the last commit from your local and remote repository.
+
+---
+
+### **2. Keep Changes but Remove Commit**
+```bash
+git reset --soft HEAD~1
+git push origin --force
+```
+This removes the commit but keeps the changes in your working directory.
+
+---
+
+### **3. Revert the Last Commit (Recommended for Shared Repositories)**
+```bash
+git revert HEAD
+git push origin
+```
+This creates a new commit that undoes the changes without rewriting history.
+
+---
+
+**Note:** Be cautious when using `git push --force`, especially in a shared repository, as it rewrites history and can affect others working on the same branch.
+
