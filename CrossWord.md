@@ -7,12 +7,11 @@
 7. Do you see a Chameleon? -> opensuse
 8. Not just a stylish cap! But an Enterprise Distro
 9. Distro, that aims to fill the void left by Antergos
-10. One who uses this may not necessarily be a hacker!
-11. A Distro that made Arch Easy for Beginners
-12. The Oldest Still Maintained!
+10. One who uses this may not necessarily be a hacker! -> Kali
+11. A Distro that made Arch Easy for Beginners -> MANJARO
+12. The Oldest Still Maintained! 
 13. It's more than just Green Ubuntu!
 14. A "K"ustomizable Distro from KDE
 15. It's not macOS, my dear Watson!
-16. The Stable
-17. Arch-based distro, known for its heavy default customizations
-18. Most Popular, Snappy and Beginner Friendly.
+16. Arch-based distro, known for its heavy default customizations -> Garuda
+17. Most Popular, Snappy and Beginner Friendly.
