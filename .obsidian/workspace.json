@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CrossWord.md",
+                "file": "Search Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CrossWord"
+              "title": "Search Engine"
             }
           }
         ],
@@ -336,10 +336,22 @@
   },
   "active": "99ba5f3075c5b9c3",
   "lastOpenFiles": [
-    "Bootloader.md",
-    "CrossWord.md",
-    "Chrome.md",
+    "SeatD.md",
+    "ShortCuts in Coding.md",
     "Spring Boot.md",
+    "Terminating TTy.md",
+    "Systemd.md",
+    "Things to be Known.md",
+    "Things to Learn in Detail.md",
+    "TTY.md",
+    "Useful Websites.md",
+    "Void Hyprland Tut.md",
+    "Youtube Video Watch List.md",
+    "xbps.md",
+    "Websites From instagram.md",
+    "CrossWord.md",
+    "Bootloader.md",
+    "Chrome.md",
     "Anime WatchList.md",
     "Anime List From March-1-25.md",
     "Docker + VNC.md",
@@ -348,23 +360,11 @@
     "Captcha.pdf",
     "Linux_Things/Packages.md",
     "Linux_Things",
-    "SeatD.md",
     "FOSS/Debian Goverance.md",
     "FOSS",
     "Debian Goverance.md",
     "Git.md",
-    "Things to Learn in Detail.md",
-    "Things to be Known.md",
-    "xbps.md",
-    "Void Hyprland Tut.md",
     "Git Setup.md",
-    "Terminating TTy.md",
-    "Systemd.md",
-    "ShortCuts in Coding.md",
-    "Search Engine.md",
-    "Questions from Mr.Cooper.md",
-    "Python.md",
-    "PTY.md",
     "etc/hosts",
     "etc"
   ]
