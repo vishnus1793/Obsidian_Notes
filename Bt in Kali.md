@@ -72,5 +72,3 @@ If you face issues:
   sudo apt install pipewire-audio-client-libraries
   ```
 
-After this, your **Bluetooth should work** in Kali Linux (Hyprland). 🚀
-
