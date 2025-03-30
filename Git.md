@@ -136,3 +136,4 @@ This will provide detailed logs for troubleshooting.
 
 ---
 
+git reflog -> Recovering a Lost Commit
