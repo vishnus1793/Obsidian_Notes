@@ -8,4 +8,3 @@
 3. The Pshycology of Laziness by Mohammad Shakel
 4. The Science of Self learning by Peter Hollins
 5. Solving the procastination puzzle by timothy A pychyl
-6. 
