@@ -137,3 +137,162 @@ This will provide detailed logs for troubleshooting.
 ---
 
 git reflog -> Recovering a Lost Commit
+
+# Types of Git Clone
+
+## 1. Full Clone (Default)
+
+- Downloads the entire repository, including all branches, commits, tags, and history.
+    
+- **Command:**
+    
+    ```sh
+    git clone <repository_url>
+    ```
+    
+- **Example:**
+    
+    ```sh
+    git clone https://github.com/vishnus1793/linux.git
+    ```
+    
+- **Use case:** When you need the complete repository history for development.
+    
+
+---
+
+## 2. Shallow Clone (`--depth <N>`)
+
+- Downloads only the latest `N` commits instead of the full history.
+    
+- **Command:**
+    
+    ```sh
+    git clone --depth <N> <repository_url>
+    ```
+    
+- **Example (latest commit only):**
+    
+    ```sh
+    git clone --depth 1 https://github.com/vishnus1793/linux.git
+    ```
+    
+- **Use case:** When you need only the latest code and want to save time and storage.
+    
+
+---
+
+## 3. Sparse Clone
+
+- Clones the repository but downloads only specific folders or files instead of everything.
+    
+- **Commands:**
+    
+    ```sh
+    git clone --no-checkout <repository_url>
+    cd <repo_name>
+    git sparse-checkout init
+    git sparse-checkout set <folder_name>
+    git checkout <branch>
+    ```
+    
+- **Example:**
+    
+    ```sh
+    git clone --no-checkout https://github.com/vishnus1793/linux.git
+    cd linux
+    git sparse-checkout init
+    git sparse-checkout set drivers/net
+    git checkout master
+    ```
+    
+- **Use case:** When working with large repositories but need only a subset of files.
+    
+
+---
+
+## 4. Mirror Clone (`--mirror`)
+
+- Creates a **bare** clone (without a working directory) but also includes remote-tracking branches, tags, and refs.
+    
+- **Command:**
+    
+    ```sh
+    git clone --mirror <repository_url>
+    ```
+    
+- **Example:**
+    
+    ```sh
+    git clone --mirror https://github.com/vishnus1793/linux.git
+    ```
+    
+- **Use case:** For **repository backups** or mirroring to another remote server.
+    
+
+---
+
+## 5. Bare Clone (`--bare`)
+
+- Clones only the Git database (no working directory, no checked-out files).
+    
+- **Command:**
+    
+    ```sh
+    git clone --bare <repository_url>
+    ```
+    
+- **Example:**
+    
+    ```sh
+    git clone --bare https://github.com/vishnus1793/linux.git
+    ```
+    
+- **Use case:** Useful for **Git servers** or when setting up a remote repository.
+    
+
+---
+
+## 6. Single Branch Clone (`--branch <branch_name> --single-branch`)
+
+- Clones only a specific branch without fetching others.
+    
+- **Command:**
+    
+    ```sh
+    git clone --branch <branch_name> --single-branch <repository_url>
+    ```
+    
+- **Example:**
+    
+    ```sh
+    git clone --branch dev --single-branch https://github.com/vishnus1793/linux.git
+    ```
+    
+- **Use case:** When working on a specific branch and don't need the rest.
+    
+
+---
+
+## 7. Partial Clone (`--filter=blob:none`)
+
+- Fetches only the repository structure without all file contents immediately. Files are downloaded **on-demand** when accessed.
+    
+- **Command:**
+    
+    ```sh
+    git clone --filter=blob:none <repository_url>
+    ```
+    
+- **Example:**
+    
+    ```sh
+    git clone --filter=blob:none https://github.com/vishnus1793/linux.git
+    ```
+    
+- **Use case:** Ideal for large repositories where you want to download files as needed.
+    
+
+---
+
+Each type serves a different purpose. Choose the one that best fits your needs! 🚀
