@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certification/Github Foundations.md",
+                "file": "Useful Websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Foundations"
+              "title": "Useful Websites"
             }
           }
         ]
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945a86461ba6c631",
+  "active": "ceab03183e535f11",
   "lastOpenFiles": [
+    "Certification/Github Foundations.md",
     "Untitled 1.md",
     "PTY.md",
     "Linux.md",
@@ -181,7 +182,6 @@
     "Search Engine.md",
     "Root Error.md",
     "Certification/Github Foundation Certification.md",
-    "Certification/Github Foundations.md",
     "Certification",
     "DragonFlyBSD.md",
     "ShortCuts in Coding.md",
