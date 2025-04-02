@@ -4,235 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f03aff07b878fcda",
+        "id": "fc5acb24d5a4b92e",
         "type": "tabs",
         "children": [
           {
-            "id": "d95202a10a8307e7",
+            "id": "ceab03183e535f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PTY.md",
+                "file": "Github Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PTY"
-            }
-          },
-          {
-            "id": "37131765e6f67bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "2c137e76584845d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systemd"
-            }
-          },
-          {
-            "id": "893823bf8ac1a0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Websites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful Websites"
-            }
-          },
-          {
-            "id": "682aaec699fdb301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "f26be615005cb0fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to be Known.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things to be Known"
-            }
-          },
-          {
-            "id": "66d0ca71947c6672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anime WatchList.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anime WatchList"
-            }
-          },
-          {
-            "id": "d83a418e4638f77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java Interview Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java Interview Questions"
-            }
-          },
-          {
-            "id": "8bb244f528c1c6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "919dd8aa1ad6204d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeatD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SeatD"
-            }
-          },
-          {
-            "id": "300e6ed9546e5e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anime WatchList.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anime WatchList"
-            }
-          },
-          {
-            "id": "b3b4b50ae1b89ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chrome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chrome"
-            }
-          },
-          {
-            "id": "99ba5f3075c5b9c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Search Engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Search Engine"
-            }
-          },
-          {
-            "id": "9738e61e866a7be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "df71e7a123b48895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root Error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Root Error"
-            }
-          },
-          {
-            "id": "ba117f0b74ca0718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certification/Github Foundation Certification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Github Foundation Certification"
+              "title": "Github Foundations"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -376,34 +165,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba117f0b74ca0718",
+  "active": "ceab03183e535f11",
   "lastOpenFiles": [
-    "Certification",
+    "Untitled 1.md",
+    "PTY.md",
+    "Linux.md",
+    "Systemd.md",
+    "Useful Websites.md",
+    "Git.md",
+    "Things to be Known.md",
+    "Anime WatchList.md",
+    "Java Interview Questions.md",
+    "SeatD.md",
+    "Chrome.md",
+    "Search Engine.md",
     "Root Error.md",
     "Certification/Github Foundation Certification.md",
-    "Git.md",
+    "Github Foundations.md",
+    "Certification",
     "DragonFlyBSD.md",
-    "Search Engine.md",
-    "SeatD.md",
     "ShortCuts in Coding.md",
     "Spring Boot.md",
     "Terminating TTy.md",
-    "Systemd.md",
-    "Things to be Known.md",
     "Things to Learn in Detail.md",
     "TTY.md",
-    "Useful Websites.md",
     "Void Hyprland Tut.md",
     "Youtube Video Watch List.md",
     "xbps.md",
     "Websites From instagram.md",
     "CrossWord.md",
-    "Bootloader.md",
-    "Chrome.md",
-    "Anime WatchList.md",
-    "Anime List From March-1-25.md",
-    "Docker + VNC.md",
-    "Docker.md",
     "Captcha.pdf",
     "Linux_Things",
     "FOSS",
