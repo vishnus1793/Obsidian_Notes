@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github Foundations.md",
+                "file": "Certification/Github Foundations.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceab03183e535f11",
+  "active": "945a86461ba6c631",
   "lastOpenFiles": [
     "Untitled 1.md",
     "PTY.md",
@@ -181,7 +181,7 @@
     "Search Engine.md",
     "Root Error.md",
     "Certification/Github Foundation Certification.md",
-    "Github Foundations.md",
+    "Certification/Github Foundations.md",
     "Certification",
     "DragonFlyBSD.md",
     "ShortCuts in Coding.md",
