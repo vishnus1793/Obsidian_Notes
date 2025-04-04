@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Packages"
             }
+          },
+          {
+            "id": "6aba6892de0d3e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sql"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f79390bd6fe55ce",
+  "active": "6aba6892de0d3e37",
   "lastOpenFiles": [
-    "Docker + VNC.md",
+    "MySql.md",
+    "Sql.md",
     "Packages.md",
+    "Docker + VNC.md",
     "CrossWord.md",
     "Bt in Kali.md",
     "Useful Websites.md",
@@ -207,8 +223,6 @@
     "Spring Boot.md",
     "Terminating TTy.md",
     "Things to Learn in Detail.md",
-    "TTY.md",
-    "Void Hyprland Tut.md",
     "Captcha.pdf",
     "Linux_Things",
     "FOSS",
