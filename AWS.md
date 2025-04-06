@@ -50,6 +50,3 @@
 - Experiment with new AWS services as they are released.
 - Participate in AWS hackathons and user groups.
 
----
-
-
