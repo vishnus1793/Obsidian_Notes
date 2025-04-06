@@ -5,3 +5,4 @@
 5. https://github.com/go-gorm/gorm
 6. https://softgen.ai/ -> paid  | Alternate = Github Screentocode
 7. https://github.com/liam-hq/liam
+8. https://github.com/Druco/WKDocker/
