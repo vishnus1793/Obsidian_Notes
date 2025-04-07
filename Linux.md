@@ -89,4 +89,3 @@ Distros = Kernel + Userland (tools, libraries, package manager). Examples:
 
 ---
 
-Pure wisdom delivered.
