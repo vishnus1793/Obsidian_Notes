@@ -24,7 +24,7 @@ Software development typically follows these **stages of production**:
 Beeper is currently in the **Beta** stage, meaning it is mostly functional but still being tested and improved before full public release. 🚀
 
 ## Appimage Manager
-=="Gear Lever" is a free and open-source== tool designed to manage AppImages on Linux, simplifying their installation, organization, and integration with the system menu
+"Gear Lever" is a free and open-source== tool designed to manage AppImages on Linux, simplifying their installation, organization, and integration with the system menu
 https://github.com/mijorus/gearlever
 
 https://tldr.inbrowser.app/pages/common/lsd used to learn about linux commands
