@@ -53,4 +53,4 @@
 
 ## **Step 8: Stay Updated & Keep Learning**
 - Follow Python’s official documentation and community blogs.
-- Contribute to open-source projects.
+- Contribute to open-source projects.]
