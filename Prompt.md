@@ -6,4 +6,4 @@
 6. What's the one piece of knowledge about [Topic] that could make me unstoppable ?
 7. What's the single most powerful mental model for mastering [topic]?
 8. Teach me how to control my mind so nothing external can break me.
-9. I don't just want to memorize [insert subject]. I want to deeply understand it. and apply it in real life. Design an interactive learning experience with case studies, real-world problem-lving
+9. I don't just want to memorize [insert subject]. I want to deeply understand it. and apply it in real life. Design an interactive learning experience with case studies, real-world problem-living
