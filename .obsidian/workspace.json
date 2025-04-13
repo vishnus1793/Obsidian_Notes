@@ -91,7 +91,8 @@
               "title": "DPP"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,8 +237,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ceab03183e535f11",
+  "active": "ef8245524680829e",
   "lastOpenFiles": [
+    "Useful Websites.md",
+    "Packages.md",
+    "Python.md",
     "Docker + VNC.md",
     "DPP.md",
     "DB and SQL.md",
@@ -248,12 +252,10 @@
     "Untitled 1.md",
     "README.md",
     "passkeys.md",
-    "Useful Websites.md",
     "Linux_Things/NeedToBeNoticed.md",
     "Sql.md",
     "WIn_bpdrive_to_npendrive.md",
     "MySql.md",
-    "Packages.md",
     "CrossWord.md",
     "Bt in Kali.md",
     "Certification/Github Foundations.md",
@@ -263,7 +265,6 @@
     "Things to be Known.md",
     "Anime WatchList.md",
     "Java Interview Questions.md",
-    "SeatD.md",
     "Certification",
     "Captcha.pdf",
     "Linux_Things",
