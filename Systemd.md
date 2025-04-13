@@ -155,11 +155,5 @@ sudo systemctl enable --now myapp.service
 
 - Use a different init system like **OpenRC** or **runit**, but this is **not recommended**.
 
-## Final Wisdom
 
-- systemd is the dominant init system in modern Linux.
-- Everything in systemd is a **unit**.
-- Use `systemctl` for managing services and `journalctl` for logs.
-- Targets replace traditional runlevels.
-- Mastering unit files = full control over your system.
 
