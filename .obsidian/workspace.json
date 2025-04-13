@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Things to be Known.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Things to be Known"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "DPP"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,20 +236,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ef8245524680829e",
+  "active": "ceab03183e535f11",
   "lastOpenFiles": [
+    "Python.md",
+    "DPP.md",
+    "DB and SQL.md",
+    "Spring Boot.md",
     "Sql.md",
     "Systemd.md",
-    "Spring Boot.md",
     "ShortCuts in Coding.md",
     "Books.md",
     "passkeys.md",
     "Useful Websites.md",
     "Packages.md",
-    "Python.md",
     "Docker + VNC.md",
-    "DPP.md",
-    "DB and SQL.md",
     "Git.md",
     "Dbus Control System.md",
     "Java StringBuilder.md",

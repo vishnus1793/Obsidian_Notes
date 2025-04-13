@@ -86,3 +86,6 @@ This creates a new commit that undoes the changes without rewriting history.
 
 **Note:** Be cautious when using `git push --force`, especially in a shared repository, as it rewrites history and can affect others working on the same branch.
 
+```
+GIT_SSL_NO_VERIFY=true git push -u origin main
+```
