@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sirius_CDW_Test_2026_Preparation.md",
+                "file": "Git Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sirius_CDW_Test_2026_Preparation"
+              "title": "Git Setup"
             }
           },
           {
@@ -238,11 +238,19 @@
   },
   "active": "ceab03183e535f11",
   "lastOpenFiles": [
+    "Git.md",
+    "DPP.md",
+    "Docker + VNC.md",
+    "Docker.md",
+    "Dbus Control System.md",
+    "DB and SQL.md",
+    "CrossWord.md",
+    "Chrome.md",
+    "Captcha.pdf",
+    "Sirius_CDW_Test_2026_Preparation.md",
     "Books.md",
     "Things to be Known.md",
     "Python.md",
-    "DPP.md",
-    "DB and SQL.md",
     "Spring Boot.md",
     "Sql.md",
     "Systemd.md",
@@ -250,9 +258,6 @@
     "passkeys.md",
     "Useful Websites.md",
     "Packages.md",
-    "Docker + VNC.md",
-    "Git.md",
-    "Dbus Control System.md",
     "Java StringBuilder.md",
     "xbps.md",
     "Untitled 1.md",
@@ -260,12 +265,7 @@
     "Linux_Things/NeedToBeNoticed.md",
     "WIn_bpdrive_to_npendrive.md",
     "MySql.md",
-    "CrossWord.md",
-    "Bt in Kali.md",
-    "Certification/Github Foundations.md",
-    "PTY.md",
     "Certification",
-    "Captcha.pdf",
     "Linux_Things",
     "FOSS",
     "etc/hosts",
