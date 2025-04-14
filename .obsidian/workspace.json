@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be Known.md",
+                "file": "Sirius_CDW_Test_2026_Preparation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to be Known"
+              "title": "Sirius_CDW_Test_2026_Preparation"
             }
           },
           {
@@ -238,6 +238,8 @@
   },
   "active": "ceab03183e535f11",
   "lastOpenFiles": [
+    "Books.md",
+    "Things to be Known.md",
     "Python.md",
     "DPP.md",
     "DB and SQL.md",
@@ -245,7 +247,6 @@
     "Sql.md",
     "Systemd.md",
     "ShortCuts in Coding.md",
-    "Books.md",
     "passkeys.md",
     "Useful Websites.md",
     "Packages.md",
@@ -263,7 +264,6 @@
     "Bt in Kali.md",
     "Certification/Github Foundations.md",
     "PTY.md",
-    "Linux.md",
     "Certification",
     "Captcha.pdf",
     "Linux_Things",
