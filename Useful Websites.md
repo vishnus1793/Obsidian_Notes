@@ -10,4 +10,5 @@
 10. https://hdtoday.cc/watch-tv/watch-daredevil-born-again-full-121339.10973758
 ------
 1. Make.com
-2. 
+2. https://www.classcentral.com/
+3. https://sobrief.com/trending
