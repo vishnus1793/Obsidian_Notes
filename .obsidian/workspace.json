@@ -67,12 +67,12 @@
             "id": "bc1292191c0067b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Aptitude/Variables-in-Postman-Continued-.png"
+                "file": "Aptitude/rs-aggarwal-reprint-2017.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Variables-in-Postman-Continued-"
+              "icon": "lucide-file-text",
+              "title": "rs-aggarwal-reprint-2017"
             }
           },
           {
@@ -291,11 +291,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "945a86461ba6c631",
+  "active": "bc1292191c0067b0",
   "lastOpenFiles": [
+    "Aptitude/API-keys-OpenAI-API.png",
+    "Aptitude/rs-aggarwal-reprint-2017.pdf",
     "Aptitude/Variables-in-Postman-Continued-.png",
     "Aptitude/Time and Speed.md",
-    "Aptitude/rs-aggarwal-reprint-2017.pdf",
     "Aptitude/Om Electrical FlowChart.png",
     "Useful Websites.md",
     "C.md",
