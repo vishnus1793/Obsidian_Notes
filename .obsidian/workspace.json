@@ -67,14 +67,12 @@
             "id": "bc1292191c0067b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Aptitude/Time and Speed.md",
-                "mode": "source",
-                "source": false
+                "file": "Aptitude/rs-aggarwal-reprint-2017.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Time and Speed"
+              "icon": "lucide-file-text",
+              "title": "rs-aggarwal-reprint-2017"
             }
           },
           {
@@ -295,12 +293,13 @@
   },
   "active": "bc1292191c0067b0",
   "lastOpenFiles": [
+    "Aptitude/Om Electrical FlowChart.png",
     "Aptitude/rs-aggarwal-reprint-2017.pdf",
+    "Aptitude/Time and Speed.md",
     "Useful Websites.md",
     "C.md",
     "Aptitude/Variables-in-Postman-Continued-.png.part",
     "Aptitude/Variables-in-Postman-Continued-.png",
-    "Aptitude/Time and Speed.md",
     "Untitled 1.md",
     "Bootloader.md",
     "AWS.md",
