@@ -67,12 +67,12 @@
             "id": "bc1292191c0067b0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Aptitude/rs-aggarwal-reprint-2017.pdf"
+                "file": "Aptitude/Variables-in-Postman-Continued-.png"
               },
-              "icon": "lucide-file-text",
-              "title": "rs-aggarwal-reprint-2017"
+              "icon": "lucide-image",
+              "title": "Variables-in-Postman-Continued-"
             }
           },
           {
@@ -291,15 +291,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bc1292191c0067b0",
+  "active": "945a86461ba6c631",
   "lastOpenFiles": [
-    "Aptitude/Om Electrical FlowChart.png",
-    "Aptitude/rs-aggarwal-reprint-2017.pdf",
+    "Aptitude/Variables-in-Postman-Continued-.png",
     "Aptitude/Time and Speed.md",
+    "Aptitude/rs-aggarwal-reprint-2017.pdf",
+    "Aptitude/Om Electrical FlowChart.png",
     "Useful Websites.md",
     "C.md",
     "Aptitude/Variables-in-Postman-Continued-.png.part",
-    "Aptitude/Variables-in-Postman-Continued-.png",
     "Untitled 1.md",
     "Bootloader.md",
     "AWS.md",
