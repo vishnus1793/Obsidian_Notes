@@ -105,11 +105,5 @@ Let them meet after `t` hours:
 
 ---
 
-## 🔹 Common Traps
-- Don’t forget **unit conversion**
-- Don’t average speeds unless **time is constant**
-- Train/platform problems use **train + object length**
-- Always consider **direction** in relative speed
 
----
 
