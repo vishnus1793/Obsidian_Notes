@@ -7,3 +7,4 @@
 7. What's the single most powerful mental model for mastering [topic]?
 8. Teach me how to control my mind so nothing external can break me.
 9. I don't just want to memorize [insert subject]. I want to deeply understand it. and apply it in real life. Design an interactive learning experience with case studies, real-world problem-living
+10. Act as a study coach. Teach me [subject/topic] using real-life analogies and memory tricks. Make it so I never forget it again.
