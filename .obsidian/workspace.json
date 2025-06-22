@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Leumasware Software & Firmware Development.md",
+                "file": "Useful Websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leumasware Software & Firmware Development"
+              "title": "Useful Websites"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compan",
+                "query": "website",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +227,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -321,8 +322,8 @@
   },
   "active": "6d20fac89e9213f3",
   "lastOpenFiles": [
-    "Cloud.md",
     "Companies/Leumasware Software & Firmware Development.md",
+    "Cloud.md",
     "vLLM.md",
     "Spring Boot.md",
     "DB and SQL.md",
