@@ -11,7 +11,7 @@
 
 11. https://learn-anything.xyz/
 ------
-1. Make.com
+1. https://www.make.com/en
 2. https://www.classcentral.com/
 3. https://sobrief.com/trending
 -----
@@ -19,4 +19,6 @@
 2. https://quickref.me/ -> Cheat sheet / Quick Reference 
 3. https://tryhackme.com/ 
 4. https://learngitbranching.js.org/
-5. 
+5. https://devdocs.io/bash/
+6. https://sqlpd.com/
+7. 
