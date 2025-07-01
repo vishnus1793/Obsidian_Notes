@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Websites.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Websites"
+              "title": "Prompt"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "website",
+                "query": "prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,6 +322,7 @@
   },
   "active": "6d20fac89e9213f3",
   "lastOpenFiles": [
+    "Useful Websites.md",
     "Reference Video.md",
     "Companies/Leumasware Software & Firmware Development.md",
     "Cloud.md",
@@ -329,7 +330,6 @@
     "Spring Boot.md",
     "DB and SQL.md",
     "DPP.md",
-    "Useful Websites.md",
     "Docker.md",
     "CrossWord.md",
     "Components.md",
