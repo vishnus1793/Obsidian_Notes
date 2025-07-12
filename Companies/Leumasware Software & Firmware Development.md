@@ -1,4 +1,4 @@
-
+CMOS -> Complementary Metal-Oxide-Semiconductor 
 
 ## 🔧 Core Technical Skills
 

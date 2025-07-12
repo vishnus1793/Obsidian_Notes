@@ -172,9 +172,23 @@
               "icon": "lucide-file",
               "title": "Prompt"
             }
+          },
+          {
+            "id": "88cc8b27c8c04091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/Leumasware Software & Firmware Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leumasware Software & Firmware Development"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prompt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +241,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -320,20 +333,31 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6d20fac89e9213f3",
+  "active": "88cc8b27c8c04091",
   "lastOpenFiles": [
-    "Useful Websites.md",
+    "Bt in Kali.md",
+    "Bootloader.md",
+    "AWS.md",
+    "Anime WatchList.md",
+    "Anime List From March-1-25.md",
+    "Things to Learn in Detail.md",
+    "Systemd.md",
+    "Regedit.md",
     "Reference Video.md",
+    "passkeys.md",
+    "Packages.md",
+    "OpenBSD.md",
+    "DB and SQL.md",
+    "Prompt.md",
+    "Useful Websites.md",
     "Companies/Leumasware Software & Firmware Development.md",
     "Cloud.md",
     "vLLM.md",
     "Spring Boot.md",
-    "DB and SQL.md",
     "DPP.md",
     "Docker.md",
     "CrossWord.md",
     "Components.md",
-    "Packages.md",
     "nix.nix",
     "Aptitude/rs-aggarwal-reprint-2017.pdf",
     "Aptitude/API-keys-OpenAI-API.png",
@@ -343,19 +367,8 @@
     "C.md",
     "Aptitude/Variables-in-Postman-Continued-.png.part",
     "Untitled 1.md",
-    "Bootloader.md",
-    "AWS.md",
-    "Git Setup.md",
     "Untitled",
-    "Git.md",
-    "Docker + VNC.md",
-    "Dbus Control System.md",
-    "Chrome.md",
     "Captcha.pdf",
-    "Sirius_CDW_Test_2026_Preparation.md",
-    "Books.md",
-    "Things to be Known.md",
-    "Python.md",
     "Certification",
     "Linux_Things",
     "FOSS",
