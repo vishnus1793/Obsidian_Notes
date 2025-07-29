@@ -186,9 +186,37 @@
               "icon": "lucide-file",
               "title": "Leumasware Software & Firmware Development"
             }
+          },
+          {
+            "id": "3aaab20f52a9f283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operating System"
+            }
+          },
+          {
+            "id": "51c4dff6bbc6b64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Companies"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -333,8 +361,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "88cc8b27c8c04091",
+  "active": "51c4dff6bbc6b64a",
   "lastOpenFiles": [
+    "Operating System.md",
+    "Companies.md",
+    "OpenBSD.md",
+    "Null pointer Error.md",
+    "Node.js.md",
+    "MySql.md",
+    "Movies to watch.md",
+    "Linux.md",
+    "DPP.md",
+    "Questions.md",
+    "Companies/Leumasware Software & Firmware Development.md",
     "Bt in Kali.md",
     "Bootloader.md",
     "AWS.md",
@@ -346,27 +385,16 @@
     "Reference Video.md",
     "passkeys.md",
     "Packages.md",
-    "OpenBSD.md",
     "DB and SQL.md",
     "Prompt.md",
     "Useful Websites.md",
-    "Companies/Leumasware Software & Firmware Development.md",
     "Cloud.md",
-    "vLLM.md",
-    "Spring Boot.md",
-    "DPP.md",
-    "Docker.md",
-    "CrossWord.md",
-    "Components.md",
     "nix.nix",
     "Aptitude/rs-aggarwal-reprint-2017.pdf",
     "Aptitude/API-keys-OpenAI-API.png",
     "Aptitude/Variables-in-Postman-Continued-.png",
-    "Aptitude/Time and Speed.md",
     "Aptitude/Om Electrical FlowChart.png",
-    "C.md",
     "Aptitude/Variables-in-Postman-Continued-.png.part",
-    "Untitled 1.md",
     "Untitled",
     "Captcha.pdf",
     "Certification",
