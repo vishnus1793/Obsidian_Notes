@@ -254,3 +254,65 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [Chain-of-Thought Prompting Elicits Reasoning in LLMs](https://arxiv.org/abs/2201.11903)
 
+# 7 Awesome and Free AI Tools You Should Know
+
+## 1. [GFP-GAN — Photo Restoration](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
+- Fixes old photos instantly using AI.
+- Developed by Tencent by merging two AI models to restore missing photo details realistically.
+- Fast and high quality, works on low-quality images.
+- [Try for free](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV) | [Download the code](https://github.com/TencentARC/GFPGAN)
+- [Demo Video](https://youtu.be/nLDVtzcSeqM?t=146) (2:26 min)
+
+---
+
+## 2. [Copy.ai — CopyWriter](https://www.copy.ai/)
+- AI-based content generation for blogs, social media, product descriptions, etc.
+- Just provide a topic or description and let the AI generate.
+- Great for content creators, social posts, blog articles, startup ideas.
+- [Website](https://www.copy.ai/) | [Facebook](https://www.facebook.com/groups/887950931991543/) | [Twitter](https://twitter.com/copy_ai)
+
+Other similar tools:
+  - [Microcopy](https://www.microcopy.me/) – headlines, slogans, and more
+  - [Speedwrite](https://speedwrite.com/) – rewrite/enhance sentences
+  - [Hemingway](https://hemingwayapp.com/) – bold, clear writing
+  - [Jarvis AI](https://www.jasper.ai/?jredirect=true) – copywriting tool
+
+---
+
+## 3. [JADBio — AutoML](https://jadbio.com/)
+- No-code machine learning for everyone, focused on biotech and multi-omics, but supports any structured data.
+- Great for ML beginners and predictive modeling.
+- Free lifetime account.
+- [Website](https://jadbio.com/) | [Facebook](https://www.facebook.com/WeAreJADBio) | [Twitter](https://twitter.com/WeAreJADBio)
+- [Potato chip prediction sample project](https://jadbio.com/case-studies/predicting-a-better-potato-chip-binary-classification/)
+
+---
+
+## 4. [DALL-E 2 — Image Creator](https://openai.com/dall-e-2/)
+- OpenAI’s tool for creating original images and art from text descriptions.
+- Mixes concepts, attributes, styles, and more.
+- Fun to play with and completely free.
+- [Website](https://openai.com/dall-e-2/) | [Instagram](https://www.instagram.com/openaidalle/)
+
+---
+
+## 5. [Notion.ai — CopyWriter](https://www.notion.so/ai)
+- Notion’s new AI feature for content creation inside Notion.
+- Generate blog posts, email templates, business book lists, etc. directly in-app.
+- [Website](https://www.notion.so/ai) | [Facebook](https://www.facebook.com/NotionHQ/) | [Twitter](https://twitter.com/notionHQ)
+- Waitlist for access (as of Nov 16, 2022).
+
+---
+
+## 6. [Lumen5 — Video Creator](https://lumen5.com/)
+- Online AI video maker with social-media-ready templates and formats.
+- Turn transcripts into complete videos.
+- Huge library of images and clips for your content.
+- [Website](https://lumen5.com/) | [Facebook](https://www.facebook.com/LumenFive/) | [Twitter](https://twitter.com/LumenFive)
+
+---
+
+## 7. [Lalal.ai — Audio Stem Splitter](https://www.lalal.ai/)
+- Removes vocals/instruments from music tracks using AI for fast and precise stem separation.
+- Free for 10 minutes, affordable pay model for more.
+- [Website](https://www.lalal.ai/) | [Facebook](https://www.facebook.com/Lalalai-106143107757872/b) | [Twitter](https://twitter.com/ai_lalal)
