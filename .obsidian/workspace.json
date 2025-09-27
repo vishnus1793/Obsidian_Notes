@@ -8,295 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ceab03183e535f11",
+            "id": "3d0f561814acf7ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS.md",
+                "file": "Campus/campus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS"
-            }
-          },
-          {
-            "id": "def509c026f16cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aptitude/Time and Speed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time and Speed"
-            }
-          },
-          {
-            "id": "10855a1c8b005bdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Websites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful Websites"
-            }
-          },
-          {
-            "id": "e8c8a11d2d06ea88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C"
-            }
-          },
-          {
-            "id": "bc1292191c0067b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Aptitude/rs-aggarwal-reprint-2017.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "rs-aggarwal-reprint-2017"
-            }
-          },
-          {
-            "id": "8d3574985401ef05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud"
-            }
-          },
-          {
-            "id": "40d124b36cc3dd0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Components"
-            }
-          },
-          {
-            "id": "5f79390bd6fe55ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Websites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful Websites"
-            }
-          },
-          {
-            "id": "6aba6892de0d3e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Websites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful Websites"
-            }
-          },
-          {
-            "id": "ef8245524680829e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Boot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring Boot"
-            }
-          },
-          {
-            "id": "68804d32e106f4fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud"
-            }
-          },
-          {
-            "id": "6d20fac89e9213f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt"
-            }
-          },
-          {
-            "id": "88cc8b27c8c04091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Leumasware Software & Firmware Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leumasware Software & Firmware Development"
-            }
-          },
-          {
-            "id": "3aaab20f52a9f283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operating System"
-            }
-          },
-          {
-            "id": "51c4dff6bbc6b64a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Companies"
-            }
-          },
-          {
-            "id": "b9e2454b0fd17302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DSA"
-            }
-          },
-          {
-            "id": "595c9702db472142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyprland Configuration Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hyprland Configuration Notes"
-            }
-          },
-          {
-            "id": "cef5bc29736b1465",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
-            "id": "358eafa78d040b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "note"
-            }
-          },
-          {
-            "id": "84df7cd11434c3d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "cb0b117ae8869fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "n.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "n"
+              "title": "campus"
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -442,36 +167,39 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cb0b117ae8869fd1",
+  "active": "945a86461ba6c631",
   "lastOpenFiles": [
-    "n.md",
     "note.md",
     "Hyprland Configuration Notes.md",
     "DSA.md",
     "Companies.md",
     "Operating System.md",
+    "Companies/Leumasware Software & Firmware Development.md",
+    "Prompt.md",
+    "Cloud.md",
+    "Spring Boot.md",
+    "Useful Websites.md",
+    "Components.md",
+    "Aptitude/rs-aggarwal-reprint-2017.pdf",
+    "C.md",
+    "Aptitude/Time and Speed.md",
+    "AWS.md",
+    "Campus/campus.md",
+    "Untitled.md",
+    "𝗦𝗤𝗟 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 Preparation .pdf",
+    "Campus",
+    "Pdf Compress.md",
+    "Payment Status.pdf",
+    "AWS Distribution Program.md",
+    "html.md",
+    "OpenSource Security Tools.md",
     "OpenBSD.md",
     "Null pointer Error.md",
     "Node.js.md",
     "MySql.md",
     "Movies to watch.md",
     "Linux.md",
-    "DPP.md",
-    "Questions.md",
-    "Companies/Leumasware Software & Firmware Development.md",
-    "Bt in Kali.md",
-    "Bootloader.md",
-    "AWS.md",
-    "Anime WatchList.md",
-    "Anime List From March-1-25.md",
-    "Things to Learn in Detail.md",
-    "Systemd.md",
-    "Regedit.md",
-    "Reference Video.md",
-    "passkeys.md",
-    "Packages.md",
     "nix.nix",
-    "Aptitude/rs-aggarwal-reprint-2017.pdf",
     "Aptitude/API-keys-OpenAI-API.png",
     "Aptitude/Variables-in-Postman-Continued-.png",
     "Aptitude/Om Electrical FlowChart.png",
@@ -479,9 +207,6 @@
     "Untitled",
     "Captcha.pdf",
     "Certification",
-    "Linux_Things",
-    "FOSS",
-    "etc/hosts",
-    "etc"
+    "Linux_Things"
   ]
 }
