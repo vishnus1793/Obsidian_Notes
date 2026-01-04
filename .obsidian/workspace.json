@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "Ncdu"
             }
+          },
+          {
+            "id": "e48313335d18e1e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +207,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "050c9ac5e53a0719",
+  "active": "a3dd4ec00c52301c",
   "lastOpenFiles": [
     "Ncdu.md",
     "𝗦𝗤𝗟 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 Preparation .pdf",
