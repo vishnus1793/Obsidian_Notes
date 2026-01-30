@@ -1,7 +1,4 @@
-# ⚙️ Ansible 
-
-No fluff. Pure wisdom. To outperform 99% of users.
-
+ 
 ---
 
 ## 🧠 1. CORE PLAYBOOK SKILLS
