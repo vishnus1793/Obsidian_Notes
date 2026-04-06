@@ -1,0 +1,1 @@
+A stack overflow is a runtime error that occurs when a program attempts to use more memory in the call stack than has been allocated
