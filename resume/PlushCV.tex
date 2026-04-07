@@ -1,0 +1,168 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PlushCV - One Page Two Column Resume
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{plushcv}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\begin{document}
+
+\namesection{Vishnu}{Sakthi Selvakumar}{}
+{\small\contactline
+  {\href{https://www.vishnusakthi.me}{Vishnusakthi.me}}
+  {\href{https://github.com/vishnus1793}{vishnus1793}}
+  {\href{https://www.linkedin.com/in/vishnu-s-0477ba246}{Vishnu S}}
+  {\href{mailto:vishnusakthi.44@gmail.com}{vishnusakthi.44@gmail.com}}
+  {\href{tel:+917397286386}{7397286386}}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COLUMN ONE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.70\textwidth} 
+
+\section{Objective}
+
+I want to grow my skills and contribute to a team that supports innovation, creativity, and practical problem-solving. I aim to work in an environment where I can learn, build real solutions, and add value to the organization.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+
+\runsubsection{HOTEL BOOKING PLATFORM}
+\descript{| \textsc{React, FastAPI, MongoDB, JWT, Docker}}
+\\
+\vspace{6pt}
+\begin{tightemize}
+\item Built full-stack booking system with role-based dashboards.
+\item Developed REST APIs with JWT authentication and secure password hashing.
+\item Implemented real-time availability checks preventing double bookings.
+\item Optimized MongoDB queries using indexing (~35\% faster).
+\item Deployed using Docker with environment-based configuration.
+\end{tightemize}
+\vspace{4pt}
+
+\runsubsection{WEB SUMMARIZER WITH LOCAL LLM}
+\descript{| \textsc{React, FastAPI, HuggingFace, BeautifulSoup}}
+\\
+\begin{tightemize}
+\item Built full-stack app to scrape and summarize web content.
+\item Designed asynchronous APIs reducing latency by ~30\%.
+\item Integrated LSA, TextRank, and local BART for hybrid summarization.
+\item Implemented caching and model preloading for faster inference.
+\item Structured backend using modular architecture for scalability.
+\end{tightemize}
+\vspace{4pt}
+
+\runsubsection{MULTI-SEARCH ENGINE SUMMARIZER}
+\descript{| \textsc{Python, LLaMA3, Ollama, AsyncIO}}
+\\
+\begin{tightemize}
+\item Integrated multiple search APIs with asynchronous processing.
+\item Reduced redundant API calls by ~40\% using 24-hour caching.
+\item Enabled offline summarization using local LLaMA3.
+\item Implemented error handling and rate-limit management.
+\item Designed clean service-layer architecture.
+\end{tightemize}
+\vspace{4pt}
+
+\runsubsection{STOCK PRICE PREDICTION USING PYSPARK}
+\descript{| \textsc{PySpark, MLlib, Time-Series Forecasting}}
+\\
+\begin{tightemize}
+\item Built distributed pipeline for large-scale financial datasets.
+\item Engineered time-series features for predictive modeling.
+\item Implemented MLlib regression models for trend forecasting.
+\item Optimized Spark transformations for improved execution speed.
+\item Validated model performance using RMSE metrics.
+\end{tightemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACHIEVEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Achievements}
+
+\runsubsection{2ND PLACE – 30-HOUR HACKATHON}
+\descript{| \textsc{KEC}}
+\begin{tightemize}
+\item Built full-stack room booking platform with 360° visualization.
+\item Delivered functional prototype within 30 hours.
+\item Collaborated in a 3-member team following rapid Agile workflow.
+\end{tightemize}
+
+\runsubsection{3RD PLACE – 24-HOUR HACKATHON}
+\descript{| \textsc{KEC}}
+\begin{tightemize}
+\item Developed high-performance web scraping engine.
+\item Structured and cleaned large-scale product data efficiently.
+\item Optimized execution speed under strict 24-hour constraints.
+\end{tightemize}
+
+\end{minipage}
+\hfill
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COLUMN TWO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{minipage}[t]{0.25\textwidth} 
+
+\section{Education} 
+
+\subsection{Kongu Engineering College, Perundurai, Erode}
+\descript{B.Tech in Artificial Intelligence and Machine Learning}
+\location{2022 - 2026}
+\location{CGPA: 7.30 / 10.0}
+\sectionsep
+
+\subsection{Kongu Vellalar Matric Higher Secondary School, Erode}
+\descript{Higher Secondary Certificate (HSC)}
+\location{79\%}
+\sectionsep
+
+\subsection{Nandha Matric Higher Secondary School, Erode}
+\descript{Secondary School Leaving Certificate (SSLC)}
+\location{69\%}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Technical Skills}
+
+\textbf{Frontend:}\\
+React.js, JavaScript (ES6+), HTML5, CSS3 \\[4pt]
+
+\textbf{Backend:}\\
+FastAPI, Node.js, Flask, REST APIs, JWT Authentication \\[4pt]
+
+\textbf{Databases:}\\
+MongoDB, SQL \\[4pt]
+
+\textbf{DevOps \& Cloud:}\\
+Docker, CI/CD, Terraform, AWS (EC2, S3), Linux \\[4pt]
+
+\textbf{Programming:}\\
+Python, JavaScript, Java, C \\[4pt]
+
+\textbf{Tools:}\\
+Git, GitHub, Postman
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CERTIFICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Certifications}
+
+\begin{itemize}
+  \item GitHub Foundation
+  \item MongoDB Associate Developer
+  \item Docker Mastery: Kubernetes and Swarm
+\end{itemize}
+
+\end{minipage} 
+\end{document}
