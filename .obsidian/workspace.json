@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTY.md",
+                "file": "HyprCtl Monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTY"
+              "title": "HyprCtl Monitor"
             }
           }
         ],
@@ -225,6 +225,10 @@
   },
   "active": "decb15ec0f8bf7f7",
   "lastOpenFiles": [
+    "Git Setup.md",
+    "Git.md",
+    "Experimental_Extensions.md",
+    "TTY.md",
     "Untitled.base",
     "Zen windows Sync.md",
     "Untitled 1.md",
@@ -254,13 +258,10 @@
     "Things to Learn in Detail.md",
     "Terminating TTy.md",
     "Python.md",
-    "Git Setup.md",
     "Sql.md",
     "Questions.md",
     "Books.md",
     "Linux_Things/NeedToBeNoticed.md",
-    "Linux_Things/Packages.md",
-    "Anime WatchList.md",
     "Pasted image 20260107095835.png",
     "Pasted image 20260107095658.png",
     "Aptitude/API-keys-OpenAI-API.png",
