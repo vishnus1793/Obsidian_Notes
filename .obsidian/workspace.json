@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HyprCtl Monitor.md",
+                "file": "IoT/Basic Terminologies in IoT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HyprCtl Monitor"
+              "title": "Basic Terminologies in IoT"
             }
           }
         ],
@@ -225,6 +225,10 @@
   },
   "active": "decb15ec0f8bf7f7",
   "lastOpenFiles": [
+    "HyprCtl Monitor.md",
+    "IoT/Basic Terminologies in IoT.md",
+    "IoT",
+    "Untitled.md",
     "Git Setup.md",
     "Git.md",
     "Experimental_Extensions.md",
@@ -232,9 +236,7 @@
     "Untitled.base",
     "Zen windows Sync.md",
     "Untitled 1.md",
-    "Untitled.md",
     "TCS  Interview Questions.md",
-    "HyprCtl Monitor.md",
     "Campus/campus.md",
     "Ncdu.md",
     "Anime List From March-1-25.md",
@@ -254,14 +256,12 @@
     "Notes/DevOps",
     "Notes/Databases",
     "Notes/Cloud",
-    "Notes",
     "Things to Learn in Detail.md",
     "Terminating TTy.md",
     "Python.md",
     "Sql.md",
     "Questions.md",
     "Books.md",
-    "Linux_Things/NeedToBeNoticed.md",
     "Pasted image 20260107095835.png",
     "Pasted image 20260107095658.png",
     "Aptitude/API-keys-OpenAI-API.png",
