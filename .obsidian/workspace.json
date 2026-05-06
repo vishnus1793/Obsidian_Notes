@@ -68,16 +68,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT/Basic Terminologies in IoT.md",
+                "file": "HyprCtl Monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Terminologies in IoT"
+              "title": "HyprCtl Monitor"
+            }
+          },
+          {
+            "id": "5cacf8deddce95b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Experience.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Experience"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,9 +237,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "decb15ec0f8bf7f7",
+  "active": "5cacf8deddce95b2",
   "lastOpenFiles": [
     "HyprCtl Monitor.md",
+    "Linux Experience.md",
+    "Hyprland Configuration Notes.md",
+    "Zen windows Sync.md",
+    "Youtube Video Watch List.md",
+    "Virtual Machine.md",
     "IoT/Basic Terminologies in IoT.md",
     "IoT",
     "Untitled.md",
@@ -234,8 +253,6 @@
     "Experimental_Extensions.md",
     "TTY.md",
     "Untitled.base",
-    "Zen windows Sync.md",
-    "Untitled 1.md",
     "TCS  Interview Questions.md",
     "Campus/campus.md",
     "Ncdu.md",
@@ -259,9 +276,6 @@
     "Things to Learn in Detail.md",
     "Terminating TTy.md",
     "Python.md",
-    "Sql.md",
-    "Questions.md",
-    "Books.md",
     "Pasted image 20260107095835.png",
     "Pasted image 20260107095658.png",
     "Aptitude/API-keys-OpenAI-API.png",
