@@ -63,6 +63,20 @@
             }
           },
           {
+            "id": "2b534d49da228a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GTK"
+            }
+          },
+          {
             "id": "decb15ec0f8bf7f7",
             "type": "leaf",
             "state": {
@@ -90,7 +104,8 @@
               "title": "Linux Experience"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,22 +251,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "905ad265a98c1ce9",
+  "active": "2b534d49da228a66",
   "lastOpenFiles": [
-    "Linux Experience.md",
     "HyprCtl Monitor.md",
-    "Hyprland Configuration Notes.md",
+    "GTK.md",
     "Zen windows Sync.md",
+    "Untitled.base",
+    "Daily Words.md",
+    "Linux Experience.md",
+    "Hyprland Configuration Notes.md",
     "Youtube Video Watch List.md",
     "Virtual Machine.md",
     "IoT/Basic Terminologies in IoT.md",
     "IoT",
-    "Daily Words.md",
     "Git Setup.md",
     "Git.md",
     "Experimental_Extensions.md",
     "TTY.md",
-    "Untitled.base",
     "TCS  Interview Questions.md",
     "Campus/campus.md",
     "Ncdu.md",
@@ -274,7 +290,6 @@
     "Notes/Cloud",
     "Things to Learn in Detail.md",
     "Terminating TTy.md",
-    "Python.md",
     "Pasted image 20260107095835.png",
     "Pasted image 20260107095658.png",
     "Aptitude/API-keys-OpenAI-API.png",
