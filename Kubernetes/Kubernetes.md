@@ -361,3 +361,29 @@ More scalable.
 Legacy.
 
 ---
+
+# Container Registry 
+A container registry in Kubernetes is the system that stores and distributes container images used by pods.
+
+Typical registries include:
+
+- Docker Hub
+- Google Artifact Registry / GCR
+- Amazon Web Services ECR
+- Microsoft ACR
+- GitHub Container Registry (GHCR)
+- Harbor
+
+# Core purpose
+
+Kubernetes itself does not build application binaries.
+
+It runs containers from images.
+
+The registry is where those images live.
+
+Flow:
+
+```
+Developer → Build Image → Push to Registry                                   ↓                            Kubernetes pulls image                                   ↓                               Pod starts
+```
