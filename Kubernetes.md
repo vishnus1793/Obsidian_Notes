@@ -144,6 +144,7 @@ Assign Pod to chosen node.
 
 ---
 # Kube-controller-manager
+port = **10257**
 The `kube-controller-manager` is the **reconciliation engine** of Kubernetes.
 It continuously ensures:
 
@@ -211,3 +212,152 @@ while true:
     reconcile difference
 ```
 
+```
+minikube ssh "sudo ss -tlnp | grep controller"
+
+```
+
+
+# Etcd -> dir /etc  d = distributed
+
+
+Everything important in Kubernetes eventually lives in etcd.
+what is etcd ?
+A distributed, consistent, highly-available key-value store
+Built by:
+CoreOS (later acquired by Red Hat).
+Written in:
+
+```
+Go
+```
+
+Uses:
+
+```
+Raft Consensus Algorithm
+```
+
+`Never access etcd directly unless absolutely necessary.`
+7. etcd is the Database of Kubernetes
+```
+Kubernetes API Server = Application Layer
+etcd = Database Layer
+```
+etcd stores data as key -> value
+
+
+# Compute Machines
+# Kubelet — The Node Agent (Kubernetes + Applet = Kubelet)
+
+MOST IMPORTANT worker component.
+
+kubelet is the:
+
+```
+Primary node agent
+```
+# kubelet Responsibilities
+
+kubelet:
+
+- Watches assigned Pods
+- Talks to container runtime
+- Starts containers
+- Stops containers
+- Mounts volumes
+- Reports node status
+- Reports Pod status
+- Runs probes
+- Handles Secrets/ConfigMaps
+- Executes lifecycle hooks
+
+---
+# Core Purpose of Kubelet
+
+The kubelet:
+
+1. Watches for Pod assignments
+2. Talks to container runtime
+3. Starts/stops containers
+4. Reports node & pod status
+5. Performs health checks
+6. Mounts volumes/secrets/configmaps
+7. Executes probes
+8. Keeps pod state aligned with desired state
+---
+Without kubelet:
+
+```
+Kubernetes can schedule pods,but nothing actually runs.
+```
+# kubelet DOES NOT Schedule Pods
+
+Critical distinction.
+
+Scheduler assigns Pods.
+
+kubelet executes them.
+
+```
+minikube ssh "sudo ss -tlnp | grep kubelet"
+
+```
+
+```
+minikube ssh "sudo systemctl status kubelet"
+
+```
+
+```
+kubectl get nodes
+
+```
+### Kubelet WorkFlow
+
+```
+API Server
+     ↓
+kubelet watches assigned Pods
+     ↓
+Pull images
+     ↓
+Create containers
+     ↓
+Configure networking
+     ↓
+Mount storage
+     ↓
+Run workload
+```
+
+# kube-proxy
+
+Handles Service networking.
+
+Implements virtual Service IPs.
+# kube-proxy Responsibilities
+
+- Service load balancing
+- iptables/ipvs rules
+- ClusterIP handling
+- NodePort handling
+
+---
+# kube-proxy Modes
+
+## iptables mode
+
+Most common.
+
+---
+## IPVS mode
+
+More scalable.
+
+---
+## userspace mode
+
+Legacy.
+
+---
