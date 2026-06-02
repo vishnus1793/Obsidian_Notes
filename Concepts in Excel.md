@@ -5,3 +5,9 @@ percentile is a value below which a certain percentage of observation lies
 
 ## Co variance and Co relation 
 These two stastical measures used to determine the relationship between two measures
+
+```
+Rand() 
+```
+generate random decimal values
+
