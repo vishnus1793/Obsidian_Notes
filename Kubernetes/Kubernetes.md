@@ -38,7 +38,7 @@ Component → kube-apiserver → etcd
 
 # InterView Question Section
 
-1. What is kube-apiserver in kubernetest ?
+1. What is kube-apiserver in kubernetes ?
 The central control plane component that exposes the kubernetes API and acts as the communication hub between all cluster components 
 2. Why is kube-apiserver considered the heart of kubernetes ? 
 Because every components communicates though it 
