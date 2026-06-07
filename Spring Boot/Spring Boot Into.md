@@ -6,3 +6,5 @@ is a design pattern where a object receive the services or components it needs f
 IoC => Inversion of Control
 
 Rest Controller and request mapping 
+
+By type
