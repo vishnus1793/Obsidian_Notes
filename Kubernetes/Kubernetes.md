@@ -10,6 +10,7 @@ Decision Maker , Brain, Cluster Manager
 A . Kube-apiserver -> The api server is the heart of the kubernetes.
 
 Note :
+Kubectl = kubernetes + control 
 Command to find whether kube-apiserver is running or not 
 ```
 kubectl get po -n kube-system | grep kube-apiserver
