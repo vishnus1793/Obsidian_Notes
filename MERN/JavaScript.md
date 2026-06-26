@@ -89,3 +89,39 @@ A higher-order function is a function that either:
     }
     
     greetUser(greet, 'Alice'); // Hello, Alice!
+---
+## What is event bubbling?
+
+Event bubbling is the process where an event triggers on the target element and then propagates upwards through its ancestors in the DOM.
+
+const parent = document.getElementById('parent');
+
+const child = document.getElementById('child');
+
+parent.addEventListener('click', () => {
+
+  console.log('Parent clicked');
+
+});
+
+child.addEventListener('click', () => {
+
+  console.log('Child clicked');
+
+});
+
+Clicking the child element will log both "Child clicked" and "Parent clicked" due to bubbling.
+
+### Prevent bubbling:
+
+Use `event.stopPropagation()` to prevent the event from propagating upwards.
+
+child.addEventListener('click', (event) => {
+
+  event.stopPropagation();
+
+  console.log('Child clicked only');
+
+});
+
+---
