@@ -16,3 +16,6 @@ Professional & Technical Skills:
 - Familiarity with agile development methodologies and practices.  
 - Understanding of database management and data modeling concepts.  
 - Experience with version control systems such as Git.
+
+
+Hana Xs is an embedded server inside the hana database engine 
