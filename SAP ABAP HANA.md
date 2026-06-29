@@ -1,4 +1,4 @@
-**ABAP** = Advanced Business Programming Language
+w**ABAP** = Advanced Business Programming Language
 HANA - High Performance analytics appliance
 
 ABAP -> ABAP (Advanced Business Application Programming) is SAP’s proprietary programming language used to ==build, customize, and extend enterprise applications within the SAP ecosystem==
