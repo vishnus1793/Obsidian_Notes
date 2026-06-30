@@ -24,3 +24,6 @@ You should be able to answer:
 
 
 ![[Pasted image 20260629114550.png]]
+
+what is Transport Requests in sap ?
+ A Transport request is a container for moving Development objects and customization settings from a sap system to another  
