@@ -1,4 +1,4 @@
-
+``
 This video covers 121 essential psychology terms broken down by section. Below is the list of terms mentioned throughout the video:
 
 ### **Section 1: Foundations & History**
