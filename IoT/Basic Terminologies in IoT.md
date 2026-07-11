@@ -10,3 +10,5 @@ Remember :
 4. Props: size, pitch , Mounts
 5. Don't Cheap out
 
+EMI = Electo magnetic Induction being the important factor in the Digital theft and science behind the card like metro cards 
+
