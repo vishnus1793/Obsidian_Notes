@@ -6,3 +6,5 @@ Usage
 
 2.Deputy = Second - in - hand
 Second in hand or assistant who authorized to act on  behalf of a superior or take charge in his absence 
+
+3.Novice = New one (புதியவர்)
