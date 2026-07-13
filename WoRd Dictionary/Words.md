@@ -8,3 +8,4 @@ Usage
 Second in hand or assistant who authorized to act on  behalf of a superior or take charge in his absence 
 
 3.Novice = New one (புதியவர்)
+4.Hunch = Intuition (உள்ளுணர்வு)
