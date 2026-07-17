@@ -115,4 +115,8 @@ Older methods relied on prompt engineering (_"Output only valid JSON!"_) which f
 
 - **Deep Schemas Slow Down Generation:** Extremely deep, deeply nested, or highly recursive JSON schemas increase the overhead of the grammar constraint engine. Keep schemas as flat as possible for low-latency tasks.
     
-- **Include an `explanation` field:** If you force an LLM to output pure data structures, its reasoning capabilities drop because it doesn't have "Chain-of-Thought" tokens to think before it answers. **Fix:** Add a `"reasoning"` or `"explanation"` string field at the very top of your JSON schema. Let the model dump its thoughts there first, before it fills out the deterministic data fields.
+- **Include an `explanation` field:** If you force an LLM to output pure data structures, its reasoning capabilities drop because it doesn't have "Chain-of-Thought" tokens to think before it answers. **Fix:** Add a `"reasoning"` or `"explanation"` string field at the very top of your JSON schema. Let the model dump its thoughts there first, before it fills out the deterministic data fields
+
+
+
+Semantic search is the application where similarity search is the math behind it 
