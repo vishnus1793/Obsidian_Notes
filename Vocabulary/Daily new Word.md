@@ -115,3 +115,39 @@ It is the 18th-century ancestor of "procrastination," but with a specific flavor
 - **What it means:** A digital design element that mimics a physical, real-world object to make it familiar to users (like the "trash can" icon for deleting files, or a digital notebook app featuring fake leather stitching).
     
 - **Used in a sentence:** _"Early smartphone software relied heavily on skeuomorphs, giving digital buttons a glossy, plastic look so people knew they could tap them."_
+
+
+## **Alexithymia**
+
+_(pronounced: ah-lek-si-THIGH-mee-ah)_
+
+### What it means:
+
+**Alexithymia** is the **inability to identify, name, or describe your own emotions.**
+
+It comes from Greek roots:
+
+- **A-** (lacking)
+    
+- **Lexis** (words)
+    
+- **Thymos** (soul or emotion)
+    
+
+Literally, it means **"having no words for emotions."**
+
+
+
+## **Anemoia**
+
+_(pronounced: an-eh-MOY-ah)_
+
+### What it means:
+
+**Anemoia** is **a deep nostalgia or longing for a time you’ve never actually known.**
+
+It’s that distinct feeling you get when you look at old, grainy photographs from the 1920s, watch a movie set in the 1970s, or listen to a vintage track, and suddenly feel a genuine ache of homesickness for that era—even though you weren't even alive then.
+
+It contrasts with standard nostalgia, which requires you to have personally lived through the memory. Anemoia is a trick of the imagination, where your mind builds a romanticized version of a past era and makes you miss it.
+
+
