@@ -1,4 +1,4 @@
-Assistant messages are the model’s own replies in a chat-based LLM conversation. They exist so the conversation can be represented as a structured sequence of roles: **system**, **user**, and **assistant**.c
+**Assistant** messages are the model’s own replies in a chat-based LLM conversation. They exist so the conversation can be represented as a structured sequence of roles: **system**, **user**, and **assistant**.c
 
 ## Why they exist
 
