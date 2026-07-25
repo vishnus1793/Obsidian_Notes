@@ -1,0 +1,1 @@
+gio trash --empty = gio 
