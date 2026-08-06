@@ -14,7 +14,7 @@ Based on my research across NPCI data, Cashfree rankings, Oxigen Wallet market a
 
 ## 🔍 Detailed Comparison
 
-### 1️⃣ Transaction Success Rates
+### 1️⃣ Transaction Success Rates[[Pasted image 20260715133754]]
 
 |Aspect|PhonePe|Google Pay|Navi UPI|
 |---|---|---|---|
