@@ -1,1 +1,0 @@
-Amazon DynamoDB is a serverless NoSQL database designed for extreme scale and predictable, single-digit millisecond latency. In contrast, Amazon RDS is a managed relational (SQL) database that relies on a predefined schema, making it ideal for complex queries, multi-table joins, and strict ACID transactions  
